@@ -4,10 +4,6 @@
 
 This Standard Operating Procedure (SOP) provides comprehensive technical instructions for building and configuring a cluster environment with clustered shared storage and a Domain Controller. This SOP is intended for the client's technical personnel responsible for the setup and management of these systems within a Hyper-V virtualization environment. The objective is to deliver a detailed, step-by-step guide to ensure a smooth and efficient implementation of the production environment.
 
-## Document Format
-
-This SOP is delivered as a single PDF document, serving as a complete report with all necessary steps, checks, and configurations required for setting up and managing the cluster environment.
-
 ## Critical Tasks Covered
 
 1. **Prerequisites Verification**
@@ -20,7 +16,7 @@ This SOP is delivered as a single PDF document, serving as a complete report wit
    - Set up servers, configure network settings, and connect to shared storage.
 
 4. **Hyper-V Cluster Setup**
-   - Select features, configure high-availability settings such as Cluster Shared Volumes (CSV).
+   - Select features, and configure high-availability settings such as Cluster Shared Volumes (CSV).
 
 5. **Verification Testing**
    - Validate Domain Controller functionality, cluster operation with shared storage, and successful failover of services between cluster nodes.
@@ -42,6 +38,3 @@ The SOP includes:
 - Visual aids such as screenshots for key tasks and procedures.
 
 Understanding the cluster architecture, responsiveness, and resiliency is crucial for achieving the project's goals of resource optimization and continuous availability.
-
-For further details, please refer to the full SOP document in PDF format.
-
