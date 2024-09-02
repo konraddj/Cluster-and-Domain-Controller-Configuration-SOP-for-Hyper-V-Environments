@@ -1,4 +1,4 @@
-# Cluster and Domain Controller Configuration SOP for Hyper-V Environments
+# Cluster and Domain Controller Configuration for Hyper-V Environments
 
 ## Overview
 
